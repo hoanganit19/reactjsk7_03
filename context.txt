@@ -1,0 +1,7 @@
+Context trong ReactJS
+
+- Share data global 
+- Khi làm việc với Context cần có 2 component sau:
+
++ Provider
++ Consumer
